@@ -1,1 +1,6 @@
+# Data
 messages/
+
+# Pyenv
+.python-version
+
